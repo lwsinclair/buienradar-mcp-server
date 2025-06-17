@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/wpnbos-buienradar-mcp-server-badge.png)](https://mseep.ai/app/wpnbos-buienradar-mcp-server)
+
 # Buienradar MCP Server
 [![smithery badge](https://smithery.ai/badge/@wpnbos/buienradar-mcp-server)](https://smithery.ai/server/@wpnbos/buienradar-mcp-server)
 
